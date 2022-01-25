@@ -6,7 +6,7 @@
 
 MechanicalRelay -- Parent directory <br>
 |------README -- this file with instructions for installation.<br>
-|------	dataset -- the spring constants obtained from structure mechanics statistical learning (apoRT and holoRT).<br>
+|------	dataset -- Please unzip the compreesed file to get the spring constants obtained from structure-mechanics statistical learning (apoRT and holoRT).<br>
 |------	RT_demo_mechanical_relay.ipynb -- A Jupyter notebook that demonstrate the usage for getting the prominent mechanical responses of RT.<br>
 |------	rigidityGraph -- contains the python code<br>
     |------	PDB -- contains the pdb files<br>

@@ -2,7 +2,7 @@
 
 1. Construction of rigidity graph.
 2. Statistical analysis for identification of prominent modes.
-3. Mechanical relay - prominent mechanical responses due to substrate/inhibitor dissociation/association.
+3. **Mechanical relay** - contigous routes of prominent mechanical responses due to substrate/inhibitor dissociation/association.
 
 MechanicalRelay -- Parent directory <br>
 |------README -- this file with instructions for installation.<br>

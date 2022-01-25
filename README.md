@@ -38,11 +38,11 @@ Chains of spatially contiguous residues are found to exhibit prominent changes i
 
 References: 
 
-1. For using the code for construction of rigidity graph and statistical analysis for ibtaining the prominent modes, 
+1. Using the code to construct rigidity graph and statistical analysis to obtain the prominent modes, 
 please cite<br>
 *N. Raj, T. Click, H. Yang and J.-W. Chu, Comput. Struct.Biotechnol. J., 2021, 19, 5309–5320*
 
-2. For Prominent mechanical responses of the substrate unbinding, please cite<br>
+2. For identification of prominent mechanical responses of the substrate unbinding, please cite<br>
 *N. Raj, T. Click, H. Yang and J.-W. Chu, Chem. Sci. RSC, https://doi.org/10.1039/D1SC06184D*
 
 
